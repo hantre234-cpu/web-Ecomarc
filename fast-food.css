@@ -1,4 +1,3 @@
-/* التهيئة العامة */
 * {
     margin: 0;
     padding: 0;
@@ -24,7 +23,7 @@ body {
 }
 
 body.dark-theme {
-    --light-color: #1a1a1a;
+    --light-color: #cfc4c4;
     --text-color: #f0f0f0;
     --dark-color: #f0f0f0;
     background-color: #121212;
@@ -125,7 +124,7 @@ body.dark-theme .section-subtitle {
     color: #aaa;
 }
 
-/* شريط التنقل */
+
 .header {
     position: fixed;
     top: 0;
