@@ -87,6 +87,7 @@ The application provides an intuitive user interface for browsing menu items, ma
 ---
 
 ## 📂 Project Structure
+<p style='font-size:10px;'>
 food-store/
 │
 ├── 📄 fast-food.html          # Main HTML file with page structure
@@ -111,6 +112,7 @@ food-store/
 │   └── LocalStorage         # Persist cart data
 │
 └── 📄 README.md              # This documentation file
+</p>
 ---
 
 ## ⚙️ Prerequisites
