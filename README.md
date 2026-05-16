@@ -87,32 +87,32 @@ The application provides an intuitive user interface for browsing menu items, ma
 ---
 
 ## 📂 Project Structure
-<p style='font-size:10px;'>
-food-store/
+
+food-store/<br>
 │
-├── 📄 fast-food.html          # Main HTML file with page structure
-│   ├── Header & Navigation    # Site branding and menu
-│   ├── Hero Section          # Banner and call-to-action
-│   ├── Menu Display          # Product grid/listings
-│   ├── Shopping Cart         # Cart display section
-│   └── Footer               # Contact and information
-│
-├── 🎨 fast-food.css          # Complete styling file
-│   ├── Global Styles        # Typography, colors, resets
-│   ├── Layout               # Grid and flexbox layouts
-│   ├── Components           # Buttons, cards, forms
-│   ├── Responsive Design    # Media queries for mobile/tablet
-│   └── Animations           # Transitions and keyframe animations
-│
-├── ⚙️ fast-food.js           # JavaScript application logic
-│   ├── Cart Management      # Add/remove/update items
-│   ├── Price Calculations   # Total and item pricing
-│   ├── DOM Updates          # Real-time UI updates
-│   ├── Event Listeners      # Click and form handlers
-│   └── LocalStorage         # Persist cart data
-│
-└── 📄 README.md              # This documentation file
-</p>
+├── 📄 fast-food.html          # Main HTML file with page structure<br>
+│   ├── Header & Navigation    # Site branding and menu<br>
+│   ├── Hero Section          # Banner and call-to-action<br>
+│   ├── Menu Display          # Product grid/listings<br>
+│   ├── Shopping Cart         # Cart display section<br>
+│   └── Footer               # Contact and information<br>
+│<br>
+├── 🎨 fast-food.css          # Complete styling file<br>
+│   ├── Global Styles        # Typography, colors, resets<br>
+│   ├── Layout               # Grid and flexbox layouts<br>
+│   ├── Components           # Buttons, cards, forms<br>
+│   ├── Responsive Design    # Media queries for mobile/tablet<br>
+│   └── Animations           # Transitions and keyframe animations<br>
+│<br>
+├── ⚙️ fast-food.js           # JavaScript application logic<br>
+│   ├── Cart Management      # Add/remove/update items<br>
+│   ├── Price Calculations   # Total and item pricing<br>
+│   ├── DOM Updates          # Real-time UI updates<br>
+│   ├── Event Listeners      # Click and form handlers<br>
+│   └── LocalStorage         # Persist cart data<br>
+│<br>
+└── 📄 README.md              # This documentation file<br>
+
 ---
 
 ## ⚙️ Prerequisites
